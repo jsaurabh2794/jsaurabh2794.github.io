@@ -1,0 +1,23 @@
+[17-Feb-2018 18:07:47 Europe/Moscow] PHP Notice:  Undefined variable: message in /home/saurab14/public_html/inc/sendEmail.php on line 31
+[17-Feb-2018 18:08:15 Europe/Moscow] PHP Notice:  Undefined variable: message in /home/saurab14/public_html/inc/sendEmail.php on line 31
+[17-Feb-2018 18:08:15 Europe/Moscow] PHP Notice:  Undefined variable: error in /home/saurab14/public_html/inc/sendEmail.php on line 47
+[17-Feb-2018 22:11:52 Europe/Moscow] PHP Notice:  Undefined variable: message in /home/saurab14/public_html/inc/sendEmail.php on line 31
+[17-Feb-2018 22:11:52 Europe/Moscow] PHP Notice:  Undefined variable: error in /home/saurab14/public_html/inc/sendEmail.php on line 47
+[18-Feb-2018 09:01:56 Europe/Moscow] PHP Notice:  Undefined variable: message in /home/saurab14/public_html/inc/sendEmail.php on line 31
+[18-Feb-2018 09:01:56 Europe/Moscow] PHP Notice:  Undefined variable: error in /home/saurab14/public_html/inc/sendEmail.php on line 47
+[18-Feb-2018 09:02:30 Europe/Moscow] PHP Notice:  Undefined variable: message in /home/saurab14/public_html/inc/sendEmail.php on line 31
+[18-Feb-2018 09:02:31 Europe/Moscow] PHP Notice:  Undefined variable: error in /home/saurab14/public_html/inc/sendEmail.php on line 47
+[18-Feb-2018 09:20:56 Europe/Moscow] PHP Notice:  Undefined variable: error in /home/saurab14/public_html/inc/sendEmail.php on line 50
+[18-Feb-2018 09:58:44 Europe/Moscow] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/saurab14/public_html/inc/sendEmail.php on line 67
+[18-Feb-2018 10:08:11 Europe/Moscow] PHP Notice:  Undefined variable: email in /home/saurab14/public_html/inc/test.php on line 9
+[18-Feb-2018 10:08:34 Europe/Moscow] PHP Notice:  Undefined variable: email in /home/saurab14/public_html/inc/test.php on line 9
+[18-Feb-2018 11:45:42 Europe/Moscow] PHP Warning:  Illegal string offset 'message' in /home/saurab14/public_html/inc/sendEmail.php on line 28
+[18-Feb-2018 11:45:42 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'Mail' not found in /home/saurab14/public_html/inc/sendEmail.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/saurab14/public_html/inc/sendEmail.php on line 54
+[18-Feb-2018 11:46:55 Europe/Moscow] PHP Warning:  Illegal string offset 'message' in /home/saurab14/public_html/inc/sendEmail.php on line 29
+[18-Feb-2018 11:50:31 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'From' (T_STRING) in /home/saurab14/public_html/inc/sendEmail.php on line 44
+[18-Feb-2018 11:59:30 Europe/Moscow] PHP Warning:  Illegal string offset 'message' in /home/saurab14/public_html/inc/sendEmail.php on line 31
+[18-Feb-2018 12:01:14 Europe/Moscow] PHP Warning:  Illegal string offset 'mess' in /home/saurab14/public_html/inc/sendEmail.php on line 31
+[18-Feb-2018 12:07:14 Europe/Moscow] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/saurab14/public_html/inc/sendEmail.php on line 85
