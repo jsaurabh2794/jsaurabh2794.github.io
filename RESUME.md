@@ -5,11 +5,6 @@
 jsaurabh2794@gmail.com · (+91) 7990837599 · Bengaluru, India
 [github.com/jsaurabh2794](https://github.com/jsaurabh2794) · [linkedin.com/in/jsaurabh2794](https://www.linkedin.com/in/jsaurabh2794/)
 
-> Draft for the updated PDF. Export this to PDF and save it as
-> `assets/Saurabh_Kumar_Resume.pdf` so the site's download button resolves.
-> Keep the phone number here if you want it on the PDF — it is deliberately
-> absent from the website.
-
 ---
 
 ## Profile Summary
