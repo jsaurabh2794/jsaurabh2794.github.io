@@ -1,0 +1,17 @@
+{
+  "name": "Saurabh Kumar — Full Stack Engineer | AI & GenAI Solutions",
+  "short_name": "Saurabh Kumar",
+  "description": "Portfolio of Saurabh Kumar, full stack engineer building AI-enabled products.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e14",
+  "theme_color": "#0a0e14",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
